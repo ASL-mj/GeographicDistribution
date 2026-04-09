@@ -1,0 +1,8 @@
+Population_name	Sampling_location	Longitude	Latitude	Elevation_m	Individuals_number
+ZJ	Zhaojue County, Liangshan Yi Autonomous Prefecture, Sichuan Province, China	102.843001	28.014200	2300	6
+PC	Pingchang County, Bazhong City, Sichuan Province, China	107.104000	31.560500	1338	8
+JC	Jinchuan County, Aba Tibetan and Qiang Autonomous Prefecture, Sichuan Province, China	102.064000	31.476301	2150	10
+XH	Xuanhan County, Dazhou City, Sichuan Province, China	107.727001	31.353800	780	13
+PW	Pingwu County, Mianyang City, Sichuan Province, China	104.529000	32.408399	1000	14
+YJ	Yingjing County, Ya'an City, Sichuan Province, China	102.847001	29.792900	800	15
+

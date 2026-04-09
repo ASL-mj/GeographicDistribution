@@ -1,0 +1,28 @@
+# macOS / IDE
+.DS_Store
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+
+# R / Shiny
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+rsconnect/
+
+# Build outputs
+output/
+back/output/
+demo/output/
+*.log
+
+# Archives
+*.zip
